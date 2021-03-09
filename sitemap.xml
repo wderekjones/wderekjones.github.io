@@ -2,11 +2,11 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://wderekjones.github.io/hyde/</loc>
-<lastmod>2020-12-11T16:24:32-08:00</lastmod>
+<lastmod>2021-03-09T13:43:16-08:00</lastmod>
 </url>
 <url>
 <loc>https://wderekjones.github.io/hydejack/</loc>
-<lastmod>2020-12-11T16:24:32-08:00</lastmod>
+<lastmod>2021-03-09T13:43:16-08:00</lastmod>
 </url>
 <url>
 <loc>https://wderekjones.github.io/update-08-16-2017</loc>
@@ -78,13 +78,19 @@
 <loc>https://wderekjones.github.io/docs/writing/</loc>
 </url>
 <url>
+<loc>https://wderekjones.github.io/bibliography/jones2021improved/</loc>
+</url>
+<url>
+<loc>https://wderekjones.github.io/bibliography/jacobs_covid_2021/</loc>
+</url>
+<url>
 <loc>https://wderekjones.github.io/bibliography/jones2020improved/</loc>
 </url>
 <url>
-<loc>https://wderekjones.github.io/bibliography/zhu2020pairwise/</loc>
+<loc>https://wderekjones.github.io/bibliography/bennett_transfer_2020/</loc>
 </url>
 <url>
-<loc>https://wderekjones.github.io/bibliography/bennett_transfer_2020/</loc>
+<loc>https://wderekjones.github.io/bibliography/zhu2020pairwise/</loc>
 </url>
 <url>
 <loc>https://wderekjones.github.io/bibliography/jones289_LargeScaleMD/</loc>
@@ -93,7 +99,7 @@
 <loc>https://wderekjones.github.io/bibliography/jones289_fusion_ml/</loc>
 </url>
 <url>
-<loc>https://wderekjones.github.io/bibliography/Jones2018poly/</loc>
+<loc>https://wderekjones.github.io/bibliography/jones2018thesis/</loc>
 </url>
 <url>
 <loc>https://wderekjones.github.io/bibliography/Alghamedy2018dynamics/</loc>
@@ -102,7 +108,7 @@
 <loc>https://wderekjones.github.io/bibliography/jones2018tapia/</loc>
 </url>
 <url>
-<loc>https://wderekjones.github.io/bibliography/jones2018thesis/</loc>
+<loc>https://wderekjones.github.io/bibliography/Jones2018poly/</loc>
 </url>
 <url>
 <loc>https://wderekjones.github.io/bibliography/Jones2017howlow/</loc>
